@@ -8,7 +8,7 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>leo_carre.garcia</groupId>
+	<groupId>leo.carre.garcia</groupId>
 	<artifactId>N00b_Save</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>N00b_Save</name>
