@@ -1,4 +1,4 @@
-package leo_carre.garcia.N00b_Save;
+package leo.carre.garcia.N00b_Save;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
