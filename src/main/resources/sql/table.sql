@@ -1,3 +1,5 @@
+CREATE DATABASE NSave
+
 CREATE TABLE NSave (
                        id INT AUTO_INCREMENT PRIMARY KEY,  -- Clé primaire pour identifier chaque enregistrement
                        titre VARCHAR(255) NOT NULL,        -- Attribut de type string pour le titre
